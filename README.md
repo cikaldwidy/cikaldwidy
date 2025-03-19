@@ -44,7 +44,7 @@
 ### 🎯 **Let's Connect**
 
 <p align="center">
-  <a href="https://github.com/cikaldwidy"><img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://www.linkedin.com/in/cikaldwidyanto"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://instagram.com/cikal_dwidy"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://github.com/cikaldwidy?tab=overview&from=2025-03-01&to=2025-03-19"><img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://www.instagram.com/cikaldwii_?igsh=dnN5bmR3dmN4eXls"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" /></a>
 </p>
