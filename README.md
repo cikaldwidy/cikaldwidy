@@ -18,7 +18,7 @@
 ### 🌟 **Tech Stack**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,nodejs,python,opencv,arduino" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,django,python,opencv,arduino" alt="Tech Stack"/>
 </p>
 
 ---
