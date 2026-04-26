@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👨‍💻 Cikal Dwidyanto
+#  Cikal Dwidyanto
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38B6FF&center=true&vCenter=true&width=600&lines=Informatics+Engineering+Student+%F0%9F%8E%93;AI+%7C+IoT+%7C+Robotics+Enthusiast+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;Building+The+Future+with+Code+%F0%9F%9A%80" alt="Typing Animation" />
 
@@ -14,7 +14,7 @@
 
 ```yaml
 name: Cikal Dwidyanto
-located_in: Kedungwaru, East Java, Indonesia
+located_in: Tulungagung, Jawa Timur, Indonesia
 current_education: Informatics Engineering @ Bhineka PGRI University
 fields_of_interests:
   - Artificial Intelligence
@@ -138,7 +138,7 @@ currently_working_on:
 
 <div align="center">
   
-### 💙 Show some love by starring ⭐ some repositories!
+### 💙 Show some love by starring, some repositories!
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
