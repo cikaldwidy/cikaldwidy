@@ -79,32 +79,12 @@ currently_working_on:
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-![](https://github-profile-trophy.vercel.app/?username=cikaldwidy&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)
-
-</div>
-
----
-
 ## 🚀 Featured Projects
 
 <div align="center">
 
 [![FunEduCare](https://github-readme-stats.vercel.app/api/pin/?username=cikaldwidy&repo=funeducare&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/cikaldwidy/funeducare)
 [![IoT Waste Detection](https://github-readme-stats.vercel.app/api/pin/?username=cikaldwidy&repo=iot-waste-detection&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/cikaldwidy/iot-waste-detection)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  
-![Snake animation](https://raw.githubusercontent.com/cikaldwidy/cikaldwidy/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
